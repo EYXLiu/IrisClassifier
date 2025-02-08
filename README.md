@@ -12,4 +12,4 @@ Decision Trees
 
 
 # Scikit-learn
-Uses scikit-learn models compare predictions, most predictions being the exact same errors that Scikit-learn's models have
+Uses scikit-learn models compare predictions, most predictions being the exact same accuracy that Scikit-learn's models have
